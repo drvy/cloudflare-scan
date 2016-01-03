@@ -2,7 +2,7 @@
 
 A simple console line client for the **CloudFlareScan** PHP Class. Its designed tu run on Terminals (Command Line for Windows). Make sure to have the 'CloudFlareScan.php' in the correct folder (../src).
 
-![CLI Example](https://raw.githubusercontent.com/drvy/CloudFlareScan/master/cli/cli-example.jpg "CLI Example")
+![CLI Example](https://i.imgur.com/X1xXdUd.png "CLI Example")
 
 ## Usage
 
