@@ -1,4 +1,4 @@
-# CloudFlareScan
+# CloudFlareScan [![Build Status](https://travis-ci.org/drvy/CloudFlareScan.svg)](https://travis-ci.org/drvy/CloudFlareScan)
 
 A simple library able to scan a given host for outside of CloudFlare IPs in a attempt to obtain the real IP of server behind the CloudFlare CDN.
 
